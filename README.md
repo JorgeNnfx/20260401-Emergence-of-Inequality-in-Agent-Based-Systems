@@ -4,7 +4,8 @@ This repository contains the source code and simulation framework for the study:
 
 Citation
 If you use this code or the model in your research, please cite it as:
-Nanfuñay, J. G. (2026). Emergence of Inequality in Agent-Based Systems: The Role of Noise, Nonlinear Accumulation, and Network Structure. [Manuscript under review].
+Nanfuñay-Chancafe, Jorge G. (2026). Emergence of Inequality in Agent-Based Systems: The Role of Noise, Nonlinear Accumulation, and Network Structure. [Manuscript under review].
+https://orcid.org/my-orcid?orcid=0009-0004-2855-9751
 
 Overview
 This project implements an Agent-Based Model (ABM) to simulate how inequality emerges from the interplay between:
