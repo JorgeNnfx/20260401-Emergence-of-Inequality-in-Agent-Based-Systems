@@ -1,10 +1,10 @@
 Emergence of Inequality in Agent-Based Systems
 
-This repository contains the source code and simulation framework for the study:"Emergence of Inequality in Agent-Based Systems: The Role of Noise, Nonlinear Accumulation, and Network Structure" Currently under review [Index Journal]
+This repository contains the source code and simulation framework for the study:"Inequality in Agent-Based Models under Stochastic Dynamics, Cumulative Advantage, and Network Structure" Currently under review [Index Journal]
 
 Citation
 If you use this code or the model in your research, please cite it as:
-Nanfuñay-Chancafe, Jorge G. (2026). Emergence of Inequality in Agent-Based Systems: The Role of Noise, Nonlinear Accumulation, and Network Structure. [Manuscript under review].
+Nanfuñay-Chancafe, Jorge G. (2026). Inequality in Agent-Based Models under Stochastic Dynamics, Cumulative Advantage, and Network Structure [Manuscript under review].
 https://orcid.org/my-orcid?orcid=0009-0004-2855-9751
 
 Overview
