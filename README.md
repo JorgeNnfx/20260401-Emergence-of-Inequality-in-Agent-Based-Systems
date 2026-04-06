@@ -1,6 +1,6 @@
 Emergence of Inequality in Agent-Based Systems
 
-This repository contains the source code and simulation framework for the study:"Emergence of Inequality in Agent-Based Systems: The Role of Noise, Nonlinear Accumulation, and Network Structure" Currently under review in Entropy (MDPI).
+This repository contains the source code and simulation framework for the study:"Emergence of Inequality in Agent-Based Systems: The Role of Noise, Nonlinear Accumulation, and Network Structure" Currently under review [Index Journal]
 
 Citation
 If you use this code or the model in your research, please cite it as:
